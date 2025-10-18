@@ -10,7 +10,7 @@ Manticore-Local presents high-fidelity reconstructions of the local Universe (R 
 
 ## Notebooks
 
-### 1. `plot_manticore_local_clusters.ipynb`
+### 1. `manticore_local_prominant_clusters.ipynb`
 
 Demonstrates how to read and analyze the **14 prominent galaxy clusters** from the Manticore-Local paper.
 
@@ -24,7 +24,7 @@ Demonstrates how to read and analyze the **14 prominent galaxy clusters** from t
 - Visualizing mass distributions with error bars
 - Examining posterior distributions for individual clusters
 
-### 2. `test_posterior_catalogue.ipynb`
+### 2. `manticore_local_posterior_cluster_catalog.ipynb`
 
 Demonstrates how to work with the **full Manticore-Local posterior cluster catalog** containing halo associations across the entire simulation ensemble.
 
